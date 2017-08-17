@@ -279,11 +279,16 @@ left:50px;
 
 .col_2_about{
     display: inline-block;
-    width:30.6%;
+    width:35.6%;
     margin-left: 2%;
     margin-right:0%;
     margin-bottom: 0%;
     margin-top: 0%;
+}
+
+.col_2_div{
+  margin-left: 18%;
+  margin-top: 3%
 }
 
 .col_2_square{
@@ -332,11 +337,11 @@ left:50px;
 
 .col_1_center{
   display: inline-block;
-  width:98%;
-  margin-left: 0.5%;
+  width:68%;
+  margin-left: 15%;
   margin-right:0.5%;
-  margin-bottom: 0%;
-  margin-top: 15%;
+  margin-bottom: 5%;
+  margin-top: 5%;
 }
 
 .col_1_video{
